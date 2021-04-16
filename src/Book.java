@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//abstract class
 abstract class Book {
     String title;
     abstract void setTitle(String s);
